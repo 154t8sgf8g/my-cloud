@@ -1,0 +1,190 @@
+body {
+    background-color: white;
+    color:black;
+    width: 100%;
+    text-align: center;
+}
+
+.first {
+    width: 1200px;
+    margin-left: 350px;
+}
+
+.second {
+    width: 1200px;
+    margin-left: 350px;
+}
+
+header img {
+    width: 30px;
+    height: 30px;
+}
+
+#block {
+    background-color: #2691d9;
+    width: 2000px;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.list1 {
+    display: flex;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+    color: gray;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.list2 {
+    display: flex;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 50px;
+    color: gray;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img1 {
+    width: 729px;
+    height: 494px;
+    right: auto;
+}
+
+.img2 {
+    width: 729px;
+    height: 609px;
+    right: auto;
+}
+
+.img3 {
+    width: 729px;
+    height: 494px;
+    right: auto;
+}
+
+.img4 {
+    width: 729px;
+    height: 453px;
+    right: auto;
+}
+
+.img5 {
+    width: 729px;
+    height: 507px;
+    right: auto;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+
+#p1 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+
+#p2 {
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.noaccbutton {
+    background-color: white;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.noaccbutton a {
+    text-decoration: none;
+    
+}
+
+.noacc {
+    display: flex;
+    text-align: left;
+    margin: 50px;
+}
+
+
+header a {
+    color:gray;
+    text-decoration: none;
+    text-align: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-family: 'Unbounded', sans-serif;
+}
+
+#trydisk {
+    background: #2691d9;
+    color:white;
+}
+
+
+
+#trydisk a {
+    color:white
+}
+
+
+.headerbutton {
+    color: gray;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+ul li {
+    display: inline;
+    margin: 0px 50px 0px 0px;
+}
+
+header {
+    position: sticky;
+    background-color: white;
+    top: 0;
+}
+
+#section1, #section2 {
+    transition: 1s;
+}
+
+
+
